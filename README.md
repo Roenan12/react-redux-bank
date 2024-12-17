@@ -36,7 +36,7 @@ This project, **react-redux-bank**, was created as a learning tool to understand
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-redux-bank.git
+   git clone https://github.com/Roenan12/react-redux-bank.git
    cd react-redux-bank
    ```
 2. Install dependencies
